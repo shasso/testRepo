@@ -1,4 +1,11 @@
 baseline from master and cloned locally
-cd C:\Users\hassos\Source\Repos
+cd C:\Users\hassos\Source\Repos\testRep
 using: git clone https://github.com/shasso/testRepo.git
 created this file as new and I am ready to add it 
+git add .
+git commit -m "basline after adding new file test.txt"
+git push
+
+// branching workflow
+create a new branch and switch to it
+git checkout -b feature_x
