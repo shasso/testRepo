@@ -1,0 +1,4 @@
+baseline from master and cloned locally
+cd C:\Users\hassos\Source\Repos
+using: git clone https://github.com/shasso/testRepo.git
+created this file as new and I am ready to add it 
