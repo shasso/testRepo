@@ -9,3 +9,6 @@ git push
 // branching workflow
 create a new branch and switch to it
 git checkout -b feature_x
+
+// new branch with feature_y
+git checkout -b feature_y
