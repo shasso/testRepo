@@ -12,3 +12,7 @@ git checkout -b feature_x
 
 // new branch with feature_y
 git checkout -b feature_y
+make changes
+add .
+git commit -m "whatever"
+git push origin feature_y
